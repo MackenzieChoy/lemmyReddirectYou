@@ -18,11 +18,11 @@ To install the lemmyReddirectYou Chrome extension locally, follow these steps:
 
 ## Usage
 
-Once the Reddit Blocker extension is installed, it will automatically redirect any requests to Reddit.com or its variations to Lemmy.world. Simply navigate to any Reddit URL, and you will be redirected to the Lemmy.world website.
+Once the lemmyReddirectYou extension is installed, it will automatically redirect any requests to Reddit.com or its variations to Lemmy.world. Simply navigate to any Reddit URL, and you will be redirected to the Lemmy.world website.
 
 ## Contributing
 
-Contributions to the Reddit Blocker Chrome extension are welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute new features, please feel free to submit a pull request.
+Contributions to the lemmyReddirectYou Chrome extension are welcome! If you encounter any issues, have suggestions for improvements, or would like to contribute new features, please feel free to submit a pull request.
 
 ## License
 
