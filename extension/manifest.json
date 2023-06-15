@@ -6,12 +6,19 @@
   "icons": {
     "48": "./icon.png"
   },
+  "declarative_net_request": {
+    "rule_resources": [
+      {
+        "id": "ruleset_1",
+        "enabled": true,
+        "path": "rules.json"
+      }
+    ]
+  },
   "permissions": [
-    "webRequest",
-    "webRequestBlocking",
-    "<all_urls>"
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "declarativeNetRequestWithHostAccess"
   ],
-  "background": {
-    "service_worker": "background.js"
-  }
+  "host_permissions": ["*://*.reddit.com/"]
 }
