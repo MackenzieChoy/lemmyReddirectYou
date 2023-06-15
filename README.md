@@ -4,7 +4,7 @@ The lemmyReddirectYou Chrome extension redirects your browser from Reddit to Lem
 
 ## Installation
 
-To install the Reddit Blocker Chrome extension locally, follow these steps:
+To install the lemmyReddirectYou Chrome extension locally, follow these steps:
 
 1. Clone or download this repository to your local machine.
 
