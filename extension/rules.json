@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://lemmy.world"
+      }
+    },
+    "condition": {
+      "hostContains": ".reddit.",
+      "resourceTypes": ["main_frame"]
+    }
+  }
+]
